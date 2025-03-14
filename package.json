@@ -1,0 +1,12 @@
+{
+  "name": "ecomart-mern",
+  "version": "1.0.0",
+  "description": "An E-Comerce Project using MongoDb, Express.js, React.js and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
