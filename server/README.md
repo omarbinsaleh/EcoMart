@@ -7,3 +7,12 @@
 
 ### Third party middlewares
    1. `body-parser`: it is third party middleware
+
+### Packages used
+   1. `http-errors`: to create http error
+   2. `body-parser`:
+   3. `xss-clean`:
+   4. `express-rate-limit`:
+
+### Secure API
+   1. `express-rate-limit`: limiting the number of requests comming from an IP witin a given time.
